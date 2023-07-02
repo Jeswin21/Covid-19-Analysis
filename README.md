@@ -7,11 +7,14 @@ Developed a Data analysis to gather data for 3 countries affected by Covid-19 us
 Performed Data Analysis by Pre-processing and Forecasting the data to differentiate the countries based on active cases, deaths, recovery rates, and vaccinations 
 using Matplotlib which simplified the dataset.
 
+FILE: COVID19PROJECT.ipynb
+
 3 Datasets were taken from Kaggle to design 100% real-time interactive dashboards in Tableau for data visualization to create line graphs, calendar graphs, maps, 
 and bar graphs based on vaccination, total cases, deaths, and recoveries for better visual clarification where these projects ensured that customer understood the 
 date and time of the events that occurred.
 
-Tableau Insights from the cleaned data:
+
+# Tableau Insights from the cleaned data:
 
 New Cases vs Deaths Insights in India and the United States
 ![Screenshot (233)](https://github.com/Jeswin21/Covid-19-Analysis/assets/85884215/4b57bfc8-0da9-4b5c-baf1-304c127d863c)
