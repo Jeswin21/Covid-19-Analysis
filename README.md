@@ -11,6 +11,8 @@ using Matplotlib which simplified the dataset.
 and bar graphs based on vaccination, total cases, deaths, and recoveries for better visual clarification where these projects ensured that customer understood the 
 date and time of the events that occurred.
 
+Tableau Insights from the cleaned data:
+
 New Cases vs Deaths Insights in India and the United States
 ![Screenshot (233)](https://github.com/Jeswin21/Covid-19-Analysis/assets/85884215/4b57bfc8-0da9-4b5c-baf1-304c127d863c)
 
